@@ -1,0 +1,18 @@
+[
+    {
+        "id": "nivel_1",
+        "parent": null
+    },
+    {
+        "id": "nivel_1_1",
+        "parent": "nivel_1"
+    },
+    {
+        "id": "nivel_1_2",
+        "parent": "nivel_1"
+    },
+    {
+        "id": "nivel_1_2_1",
+        "parent": "nivel_1_2"
+    }
+]
